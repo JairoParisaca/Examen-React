@@ -10,7 +10,7 @@ Implementado en `src/components/ToggleButton.tsx`. Alterna entre "Encendido" y "
 Implementada en `src/App.tsx` con rutas para Home y About Us.
 
 ## 4. Ubicación del Componente Card
-El componente Card se ubica en `src/components/Card.tsx`.
+El Card esta ubicado en `src/components/Card.tsx`.
 
 **Justificación:**
 - Se coloca en la carpeta `components` porque es un componente reutilizable que puede ser usado en múltiples páginas o secciones de la aplicación.
