@@ -4,7 +4,7 @@
 esta en `src/components/Greeting.tsx`. Recibe un prop `name` y muestra "Hola, [nombre]".
 
 ## 2. Botón Toggle con useState
-esta en `src/components/ToggleButton.tsx`. Alterna entre "Encendido" y "Apagado".
+esta en `src/components/ToggleButton.tsx`. Alterna entre "Encendido" y "Apagado". 
 
 ## 3. Navegación con React Router
 esta en `src/App.tsx` con rutas para Home y About Us.
